@@ -96,7 +96,7 @@
         qwerty {
             label = "QWERTYvim";
             bindings = <
-&to 2                   &kp Q             &kp W               &kp E                 &kp R                &kp T                      &kp Y           &kp U                    &to 0                  &kp O               &kp P                       &to 0
+&to 2                   &kp Q             &kp W               &kp E                 &kp R                &kp T                      &kp Y           &kp U                    &kp I                  &kp O               &kp P                       &to 0
 &caps_word              &kp A             &kp S               &kp D                 &kp F                &kp G                      &kp H           &kp J                    &kp K                  &kp L               &kp SINGLE_QUOTE            &col_semi
 &key_repeat             &kp Z             &kp X               &kp C                 &kp V                &kp B                      &kp N           &kp M                    &kp COMMA              &kp DOT             &ques_slash                 &kp SLASH
                                                               &lt 6 ESC             &lt 5 BACKSPACE      &mo_ss 4 LSHIFT            &lt 5 RET       &lt 3 SPACE              &kp TAB
